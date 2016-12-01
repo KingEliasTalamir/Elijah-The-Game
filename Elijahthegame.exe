@@ -18,11 +18,11 @@ version Alpha:0.v.0
 root
 |
 +--- build
-| Altera and Xilinx projects
+|Windows 10 projects
 +--- hdl
 | | Source for the hardware
-| +--- altera*
-| | Altera IP
+| +--- Windows
+| | Windows 10 IP
 | +--- bios_internal
 | | Internal BIOS ROM
 | +--- clk_gen
