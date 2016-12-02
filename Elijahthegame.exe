@@ -16,3 +16,5 @@ version Alpha:0.v.0
 <graphics>101320132230_1302301321013310>title_ELIJAH_THE_GAME>2300132301321012130_15942315135315621
 <generate_dimension>school>player_spawn>x(123),y(345),z(0)>
 <player_model>>12873 12362 77635 82631 93764 97234 12343
+<windows7proffessional>x64_OS>>
+<unitygameengine>physics=_12365 99826 84631 00983 23475 23451
